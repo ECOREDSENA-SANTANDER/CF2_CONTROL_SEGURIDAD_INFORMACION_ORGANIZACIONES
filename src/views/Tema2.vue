@@ -4,8 +4,22 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Tema 2
+        span.text-color-sistema 2
+      h1 Implementación de controles	 
+
+
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.1 Criterio de priorización 
+
+
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.2 Proceso de implementación de controles
+
+
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.3 Roles y responsabilidades en seguridad de la información
+
+
 
 </template>
 
