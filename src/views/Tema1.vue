@@ -7,27 +7,27 @@
         span.text-color-sistema 1
       h1 Controles de seguridad de la información
         
-    
+    Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1 Propósito de los controles de seguridad de la información	
 
 
-
+    Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2 Tipos de controles
 
 
-
+    Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3.	Normativa legal 
 
 
-
+    Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.4.	Relación con activos y riesgos
 
 
-
+    Separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.5.	Criterios de selección	 
 
