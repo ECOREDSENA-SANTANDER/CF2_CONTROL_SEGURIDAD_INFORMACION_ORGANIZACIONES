@@ -16,10 +16,79 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2 Tipos de controles
 
+    .div(data-aos='fade')  
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla  
+        span 
+      .tabla-a.color-acento-contenido
+        table(alt="")
+          thead
+            tr.bg-color-acento-contenido
+              th 
+              th 
+              th 
+          tbody.text-start
+            tr
+              td.fw-bold 
+              td 
+              td
+
+    .div(data-aos='fade')  
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla  
+        span 
+      .tabla-a.color-acento-contenido
+        table(alt="")
+          thead
+            tr.bg-color-acento-contenido
+              th 
+              th 
+              th 
+          tbody.text-start
+            tr
+              td.fw-bold 
+              td 
+              td
+
+
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3.	Normativa legal 
+
+    .div(data-aos='fade')  
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla  
+        span 
+      .tabla-a.color-acento-contenido
+        table(alt="")
+          thead
+            tr.bg-color-acento-contenido
+              th 
+              th 
+              th 
+          tbody.text-start
+            tr
+              td.fw-bold 
+              td 
+              td
+
+    .div(data-aos='fade')  
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla  
+        span 
+      .tabla-a.color-acento-contenido
+        table(alt="")
+          thead
+            tr.bg-color-acento-contenido
+              th 
+              th 
+              th 
+          tbody.text-start
+            tr
+              td.fw-bold 
+              td 
+              td
 
 
     Separador
@@ -30,6 +99,23 @@
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.5.	Criterios de selección	 
+
+    .div(data-aos='fade')  
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla  
+        span 
+      .tabla-a.color-acento-contenido
+        table(alt="")
+          thead
+            tr.bg-color-acento-contenido
+              th 
+              th 
+              th 
+          tbody.text-start
+            tr
+              td.fw-bold 
+              td 
+              td
 
 
 
