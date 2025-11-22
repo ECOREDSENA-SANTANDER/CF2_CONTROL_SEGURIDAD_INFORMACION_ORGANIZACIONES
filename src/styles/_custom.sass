@@ -98,15 +98,25 @@ figcaption, table caption
   background-color: #C7DDFD
 .bg-7
   background-color: #FFF7E7
+.bg-8
+  background-color:  #F3F9FF
+.bg-9
+  background-color: #CBE1F6
 .bg-tab-a
   background-color: #E6ECF8
   background-image: url('../assets/curso/temas/t2/bg-tab.png')
+  background-size: cover
+  background-repeat: no-repeat
+.bg-slide-a
+  background-color: #E6ECF8
+  background-image: url('../assets/curso/temas/t1/bg-slider.png')
   background-size: cover
   background-repeat: no-repeat
 
 
 .w-70
   width: 70px
+
 
 tbody.text-start td
   text-align: left !important
@@ -119,3 +129,35 @@ tbody.text-start td
   background-color: #01D159
 .tarjeta-slide__img
   background-position: bottom center
+.acordion
+  &__activo
+    background-color: #F1F7FF
+    .acordion__accion__btn--b
+      background-color: #FFAF1A
+      border-color: #FFAF1A
+  &__accion__btn--b
+    background-color: #01D159
+    border-color: #01D159
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: #01D159
+    border: 0px
+  &__bullets__item
+    background-color: #E5FBEE
+    border-color: #E5FBEE
+    &--active
+      background-color: #01D159
+      border-color: #01D159
+
+  
+.subt 
+  background-color: #FFF7E7
+  border-top-right-radius: 10px
+  border-bottom-right-radius: 10px
+  width: fit-content
+  &--img
+    width: 60px
+    z-index: 99    
+    background-color: #FFAF1A
+    img 
+      margin-top: -15px

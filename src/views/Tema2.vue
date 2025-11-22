@@ -96,7 +96,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4
               h4 Riesgos bajos
-              p.mb-0 Presentan baja probabilidad e impacto mínimo. Incluyen vulnerabilidades menores, como fallos de software o intentos de phishing. Se gestionan mediante medidas preventivas, como parches de seguridad y monitoreo continuo.
+              p.mb-0 Presentan baja probabilidad e impacto mínimo. Incluyen vulnerabilidades menores, como fallos de #[em software] o intentos de #[em phishing]. Se gestionan mediante medidas preventivas, como parches de seguridad y monitoreo continuo.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj2-4.png')})`}")
 
     .tarjeta.bg-1.p-4.px-lg-5
@@ -202,14 +202,14 @@
           tbody.text-start
             tr
               td.fw-bold Alta dirección / gerencia
-              td Gerente aprueba presupuesto para firewall y capacitación en ciberseguridad.
-              td Rector autoriza la compra de software educativo con licencias seguras.
+              td Gerente aprueba presupuesto para #[em firewall] y capacitación en ciberseguridad.
+              td Rector autoriza la compra de #[em software] educativo con licencias seguras.
               td Administrador asigna recursos para implementar cámaras de seguridad en la bodega.
             tr
               td.fw-bold Responsable de seguridad (CISO o designado)
               td Coordinador de TI gestiona copias de seguridad de historias clínicas y revisa accesos a la red.
               td Profesor de informática lidera políticas de uso de equipos y contraseñas seguras.
-              td Ingeniero agrónomo implementa software de control de inventario con accesos diferenciados.
+              td Ingeniero agrónomo implementa #[em software] de control de inventario con accesos diferenciados.
             tr
               td.fw-bold Propietarios de activos
               td Jefe de archivo clínico custodia las historias físicas y controla acceso restringido.
@@ -218,7 +218,7 @@
             tr
               td.fw-bold Usuarios / empleados
               td Enfermeros usan contraseñas únicas para acceso a historiales y reportan intentos de acceso no autorizado.
-              td Docentes aplican políticas de uso responsable de internet y reportan incidentes de phishing.
+              td Docentes aplican políticas de uso responsable de internet y reportan incidentes de #[em phishing].
               td Trabajadores siguen protocolos de bioseguridad y notifican pérdidas o daños en equipos de riego.
             tr
               td.fw-bold Auditores internos / externos

@@ -65,7 +65,7 @@
         table(alt="El seguimiento de los controles de seguridad de la información implica revisar su diseño y aplicación, medir su eficacia y establecer periodicidad según el riesgo. Se utilizan indicadores clave para monitorear el desempeño y se documentan hallazgos para generar retroalimentación y planes de mejora continua. Estas estrategias permiten garantizar que los controles funcionen correctamente y se mantenga la seguridad de la organización.")
           thead
             tr.bg-color-acento-contenido
-              th Estrategia de seguimiento
+              th.w-25 Estrategia de seguimiento
               th Descripción
               th Ejemplos
           tbody.text-start
@@ -73,57 +73,57 @@
               td.fw-bold Revisión del diseño y aplicación
               td Consiste en analizar si el control de seguridad fue diseñado de manera adecuada para mitigar el riesgo identificado y, además, comprobar que se está aplicando en la práctica.
               td 
-                ol.lista-ol.mb-0
+                ol.lista-ol.fa-lista.mb-0
                   li
                     span.text-bold a. 
-                    | La empresa establece doble autenticación para correos corporativos y se verifica si todos los usuarios realmente la tienen activa.
+                    span.mb-0 La empresa establece doble autenticación para correos corporativos y se verifica si todos los usuarios realmente la tienen activa.
                   li.mb-0
                     span.text-bold b. 
-                    | Se diseña un protocolo de ingreso a bodega con carnet, y se revisa si los trabajadores lo cumplen en la operación diaria.
+                    span.mb-0 Se diseña un protocolo de ingreso a bodega con carnet, y se revisa si los trabajadores lo cumplen en la operación diaria.
             tr
               td.fw-bold Medición de la eficacia del control
               td Se centra en determinar si el control cumple con su propósito de prevenir, detectar o corregir riesgos. Esto implica medir resultados frente a los objetivos esperados.
               td  
-                ol.lista-ol.mb-0
+                ol.lista-ol.fa-lista.mb-0
                   li
                     span.text-bold a. 
-                    | Un sistema de videovigilancia se evalúa según la cantidad de incidentes resueltos gracias a las grabaciones. 
+                    span.mb-0 Un sistema de videovigilancia se evalúa según la cantidad de incidentes resueltos gracias a las grabaciones. 
                   li.mb-0
                     span.text-bold b. 
-                    | El antivirus se mide por la detección y bloqueo de intentos de malware en un mes.
+                    span.mb-0 El antivirus se mide por la detección y bloqueo de intentos de malware en un mes.
             tr
               td.fw-bold Periodicidad de revisión
               td Establece la frecuencia con que se revisan los controles, priorizando aquellos más críticos o expuestos. La periodicidad depende del nivel de riesgo y del impacto esperado.
               td  
-                ol.lista-ol.mb-0
+                ol.lista-ol.fa-lista.mb-0
                   li
                     span.text-bold a. 
-                    | Las copias de seguridad críticas se revisan semanalmente, mientras que las políticas de acceso a internet se revisan cada seis meses. 
+                    span.mb-0 Las copias de seguridad críticas se revisan semanalmente, mientras que las políticas de acceso a internet se revisan cada seis meses. 
                   li.mb-0
                     span.text-bold b. 
-                    | La configuración de firewalls se audita mensualmente, pero el plan de respuesta a incidentes se revisa anualmente.
+                    span.mb-0 La configuración de #[em firewalls] se audita mensualmente, pero el plan de respuesta a incidentes se revisa anualmente.
             tr
               td.fw-bold Uso de indicadores clave (KCI)
               td Implica definir métricas que permitan monitorear objetivamente el desempeño de los controles. Los indicadores se alinean con los objetivos de seguridad de la organización.
               td  
-                ol.lista-ol.mb-0
+                ol.lista-ol.fa-lista.mb-0
                   li
                     span.text-bold a. 
-                    | Número de intentos fallidos de inicio de sesión en el sistema de facturación. 
+                    span.mb-0 Número de intentos fallidos de inicio de sesión en el sistema de facturación. 
                   li.mb-0
                     span.text-bold b. 
-                    | Porcentaje de respaldos completados con éxito frente al total planificado en el mes.
+                    span.mb-0 Porcentaje de respaldos completados con éxito frente al total planificado en el mes.
             tr
               td.fw-bold Registro y retroalimentación
               td Supone documentar hallazgos, conservar evidencias y generar planes de mejora continua. Facilita auditorías internas y la trazabilidad de decisiones en seguridad.
               td  
-                ol.lista-ol.mb-0
+                ol.lista-ol.fa-lista.mb-0
                   li
                     span.text-bold a. 
-                    | Durante una revisión se detecta que el 20 % de los equipos no recibió la última actualización, se documenta y se establece un plan de corrección. 
+                    span.mb-0 Durante una revisión se detecta que el 20 % de los equipos no recibió la última actualización, se documenta y se establece un plan de corrección. 
                   li.mb-0
                     span.text-bold b. 
-                    | Una auditoría interna identifica brechas en la política de uso de contraseñas y se recomienda capacitación al personal.
+                    span.mb-0 Una auditoría interna identifica brechas en la política de uso de contraseñas y se recomienda capacitación al personal.
 
 
     Separador
@@ -151,49 +151,49 @@
               td Diaria o semanal.
               td Los activos críticos suelen ser objetivos prioritarios de atacantes. La alta frecuencia garantiza detección temprana de incidentes y reacción inmediata.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.fa-lista.mb-0
                   li
                     i.fas.fa-angle-right
-                    | Monitoreo de accesos a sistemas financieros.
+                    span.mb-0 Monitoreo de accesos a sistemas financieros.
                   li.mb-0
                     i.fas.fa-angle-right
-                    | Revisión de alertas en firewalls y sistemas de detección de intrusos.
+                    span.mb-0 Revisión de alertas en #[em firewalls] y sistemas de detección de intrusos.
             tr
               td.fw-bold Alto
               td Quincenal o mensual.
               td Son sistemas relevantes para la continuidad del negocio. Aunque el riesgo no es tan urgente como en los críticos, un fallo puede generar pérdidas económicas y reputacionales importantes.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.fa-lista.mb-0
                   li
                     i.fas.fa-angle-right
-                    | Validación de copias de seguridad.
+                    span.mb-0 Validación de copias de seguridad.
                   li.mb-0
                     i.fas.fa-angle-right
-                    | Verificación de parches en sistemas de gestión empresarial (ERP, CRM).
+                    span.mb-0 Verificación de parches en sistemas de gestión empresarial (ERP, CRM).
             tr
               td.fw-bold Medio
               td Trimestral.
               td Son riesgos con impacto moderado, que pueden controlarse con revisiones periódicas. La frecuencia trimestral equilibra esfuerzo y seguridad.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.fa-lista.mb-0
                   li
                     i.fas.fa-angle-right
-                    | Revisión de permisos de usuarios en aplicaciones internas.
+                    span.mb-0 Revisión de permisos de usuarios en aplicaciones internas.
                   li.mb-0
                     i.fas.fa-angle-right
-                    | Evaluación de políticas de contraseñas en estaciones de trabajo.
+                    span.mb-0 Evaluación de políticas de contraseñas en estaciones de trabajo.
             tr
               td.fw-bold Bajo
               td Semestral o anual.
               td Los controles de bajo riesgo tienen poco impacto en caso de falla. Una revisión menos frecuente optimiza recursos sin comprometer la seguridad global.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.fa-lista.mb-0
                   li
                     i.fas.fa-angle-right
-                    | Inspección física de archivos almacenados en bodegas.
+                    span.mb-0 Inspección física de archivos almacenados en bodegas.
                   li.mb-0
                     i.fas.fa-angle-right
-                    | Verificación de equipos en desuso conectados a la red.
+                    span.mb-0 Verificación de equipos en desuso conectados a la red.
 
 
     Separador
@@ -225,13 +225,13 @@
               th Ejemplo
           tbody.text-start
             tr
-              td.fw-bold Bidioque de eventos (logs)
+              td.fw-bold Bidioque de eventos (#[em logs])
               td Archivos generados por sistemas y aplicaciones que registran actividades como accesos, cambios o intentos de inmueble.
-              td Log del firewall mostrando intentos de correción bloqueados en la última semana.
+              td #[em Log] del #[em firewall] mostrando intentos de correción bloqueados en la última semana.
             tr
               td.fw-bold Informes de monitoreo
               td Reportes periódicos que documentan el estado de los controles y su desempeño.
-              td Informe mensual de cumplimiento de parches de software.
+              td Informe mensual de cumplimiento de parches de #[em software].
             tr
               td.fw-bold Actas de verificación
               td Documentos que certifican que se realizaron controles específicos en una fecha determinada.
@@ -239,15 +239,15 @@
             tr
               td.fw-bold Registros de incidentes
               td Documentación de eventos de seguridad, análisis de causa raíz y medidas correctivas implementadas
-              td Registro de un ataque de phishing detectado, con acciones de bloqueo y capacitación posterior.
+              td Registro de un ataque de #[em phishing] detectado, con acciones de bloqueo y capacitación posterior.
             tr
               td.fw-bold Evidencias gráficas o capturas
-              td Pruebas visuales (correcciones, fotos) que derruceñan la existencia y correcto funcionamiento de controles.
+              td Pruebas visuales (#[em screenshots], fotos) que derruceñan la existencia y correcto funcionamiento de controles.
               td Captura de pantalla del antivirus mostrando la última actualización aplicada.
             tr
               td.fw-bold Listas de chequeo de auditoría
               td Listas de verificación utilizadas para confirmar el cumplimiento de procedimientos de seguridad.
-              td Lista de chequeo completada de la inspección física de servidores en el data center.
+              td Lista de chequeo completada de la inspección física de servidores en el #[em data center].
 
     .tarjeta.bg-6.p-4.px-lg-5.mb-4
       p.mb-0 Como recomendación, los registros deben mantenerse organizados en repositorios seguros, ya sea de forma digital o física, siendo útiles los sistemas de gestión documental que muchas empresas implementan actualmente. El tiempo de retención de estos registros debe definirse según la política interna y los requisitos regulatorios aplicables. De esta manera se asegura la trazabilidad y disponibilidad de la información para futuras auditorías y revisiones.
@@ -283,7 +283,7 @@
             tr
               td.fw-bold Hallazgos
               td Detallar si el control está funcionando, si hay incidentes detectados o desviaciones.
-              td 2 accesos no autorizados detectados en el log.
+              td 2 accesos no autorizados detectados en el #[em log].
             tr
               td.fw-bold Acciones tomadas
               td Describir las medidas correctivas o preventivas aplicadas.
@@ -294,8 +294,8 @@
               td Conforme - se programó revisión adicional en 7 días.
             tr
               td.fw-bold Entienda cámara
-              td Indicar si es adjunta soporte (capcura de parcialis, informe, log).
-              td Capcura de parcialis del log adjunto al reporte digital.
+              td Indicar si es adjunta soporte (capcura de parcialis, informe, #[em log]).
+              td Capcura de parcialis del #[em log] adjunto al reporte digital.
             tr
               td.fw-bold Firma o validación
               td Firma digital o física del responsable o del auditor.
