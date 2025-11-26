@@ -55,7 +55,7 @@
         br
         p.mb-0 Estos controles permiten prevenir incidentes de seguridad, detectar anomalías en el funcionamiento de los sistemas y corregir vulnerabilidades antes de que generen un impacto mayor. Además, contribuyen a mantener la continuidad del negocio y a fortalecer la confianza de los clientes, empleados y socios estratégicos.
 
-    .cajon-b.color-secundario.p-3.mb-5
+    .bg-4.p-3.px-lg-5.mb-5
       p.mb-0 Implementar controles de seguridad no solo responde a la necesidad de mitigar ataques cibernéticos o accesos indebidos, sino también a cumplir con normas, leyes y estándares internacionales que regulan la protección de la información. Por ello, los controles representan un pilar fundamental de la gobernanza corporativa, ya que apoyan la toma de decisiones informadas, minimizan los impactos económicos y reputacionales y fomentan entornos tecnológicos seguros y resilientes.
 
     .subt.mb-4(data-aos="fade-right")

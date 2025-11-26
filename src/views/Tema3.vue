@@ -130,7 +130,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3 Periodicidad 
 
-    .cajon-b.color-secundario.p-3.mb-4
+    .bg-4.p-3.px-lg-5.mb-4
       p.mb-0 En los controles de seguridad, la periodicidad se refiere a la frecuencia con la que deben revisarse para verificar su funcionamiento y correcta aplicación. No todos los controles requieren el mismo ritmo de monitoreo; este depende del nivel de riesgo, las exigencias normativas y los recursos disponibles en la organización. Los riesgos más críticos necesitan revisiones más frecuentes (por ejemplo, diarias o semanales), mientras que los de menor relevancia pueden evaluarse en intervalos más amplios (mensuales, trimestrales o anuales). Con base en los riesgos identificados, la empresa puede diseñar un plan de revisión de controles con la periodicidad adecuada, asegurando así la efectividad y los mejores resultados de las medidas implementadas. 
 
     .div(data-aos='fade')  
