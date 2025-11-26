@@ -184,12 +184,12 @@ export default {
       referencia:
         'Global Quality Corp. (2022). ISO 27001 | Gestión de Riesgos de Seguridad de la Información en 3 minutos.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=1i-J3FLJYQg',
+      link: 'https://www.youtube.com/watch?v=1i-J3FtJYQg',
     },
     {
       tema: 'Implementación de controles',
       referencia:
-        'Soy Ingenio. (2021). ¿Qué es el CICLO PHVA o PDCA? Ejemplo personal. Deming.',
+        'Soy Ingenio. (2021). ¿Qué es el CICLO PHVA o PDCA? Ejemplo personal. Deming.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kWp-WGSmV3U',
     },
@@ -199,19 +199,19 @@ export default {
       referencia:
         'LATAM Certificaciones TI. (2025). CISO: Seguridad de la Información: Plan de Implementación de Controles y Política de Seguridad de TI.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=CJ3I8FXam9FE',
+      link: 'https://www.youtube.com/watch?v=O3I8FXam9FE',
     },
     {
       tema: 'Implementación de controles',
       referencia:
-        'CyberAcademy51. (2024). 1.1.2 Tipos de controles de seguridad | CompTJA Security+ SY0-701 explicado en Español.',
+        'CyberAcademy51. (2024). 1.1.2 Tipos de controles de seguridad | CompTIA Security+ SY0-701 explicado en Español.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=u9j89nRbqU4',
     },
     {
       tema: 'Implementación de controles',
       referencia:
-        'CyberAcademy51. (2024). 1.1.1 Categorías de controles de seguridad | CompTJA Security+',
+        'CyberAcademy51. (2024). 1.1.1 Categorías de controles de seguridad | CompTIA Security+ SY0-701 explicado en Español.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=NCa7gUBd4JA',
     },
@@ -310,7 +310,7 @@ export default {
       referencia:
         'CMS CyberGeek. (2024). CMS risk management framework (RMF): Select step.',
       link:
-        'https://security.cms.gov/policy-guidance/cms-risk-management-framework-mrf-select-step',
+        'https://security.cms.gov/policy-guidance/cms-risk-management-framework-rmf-select-step',
     },
     {
       referencia:
@@ -331,8 +331,8 @@ export default {
         'https://www.isms.online/iso-27001/annex-a-2022/5-2-information-security-roles-responsibilities-2022/',
     },
     {
-      referencia: 'IBM. (2023). ¿Qué son los controles de seguridad? lbm.com.',
-      link: 'https://www.lbm.com/mx-es/think/topics/security-controls',
+      referencia: 'IBM. (2023). ¿Qué son los controles de seguridad? Ibm.com.',
+      link: 'https://www.ibm.com/mx-es/think/topics/security-controls',
     },
     {
       referencia:
@@ -374,6 +374,11 @@ export default {
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
     {
@@ -381,12 +386,12 @@ export default {
       autores: [
         {
           nombre: 'Jenny Rocio Reyes Acevedo',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador <em>full stack</em>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -400,7 +405,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

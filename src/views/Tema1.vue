@@ -343,7 +343,7 @@
         span Ejemplos de controles en pymes (preventivos, detectivos y correctivos)
       .tabla-a.color-acento-contenido
         table(alt="La tabla presenta ejemplos de controles implementados en pequeñas y medianas empresas (pymes) de distintos sectores económicos (salud, educación y agrícola), con el propósito de ilustrar cómo se aplican mecanismos preventivos, detectivos y correctivos en contextos organizacionales diversos.")
-          caption Notal: ERP son las siglas de (Enterprise Resource Planning). 
+          caption Nota: ERP son las siglas de (#[em Enterprise Resource Planning]). 
           thead
             tr.bg-color-acento-contenido
               th Tipo de control
@@ -600,7 +600,7 @@
           .col-lg-10.col-md-10
             p.mb-0 La selección de controles de seguridad requiere un enfoque estructurado y basado en los riesgos previamente identificados. Por ejemplo, según la norma ISO/IEC 27001, las organizaciones deben elegir los controles del anexo A en función de los resultados obtenidos en la evaluación de riesgos, asegurando que cada decisión quede documentada en la Declaración de Aplicabilidad (Secureframe, 2022).
         .bg-1.tarjeta.p-4.mb-4.mb-lg-0
-          p.mb-0 De igual manera, el Marco de Gestión de Riesgos (RMF) del Instituto Nacional de Estándares y Tecnología (NIST) establece la fase #[em Select], en la cual se seleccionan, adaptan y documentan los controles necesarios conforme al nivel de impacto del sistema y a los resultados del análisis de riesgos (CMS, 2024).
+          p.mb-0 De igual manera, el Marco de Gestión de Riesgos (RMF) del Instituto Nacional de Estándares y Tecnología (NIST) establece la fase #[em select], en la cual se seleccionan, adaptan y documentan los controles necesarios conforme al nivel de impacto del sistema y a los resultados del análisis de riesgos (CMS, 2024).
     
     p.mb-4 Con base en estas guías, es posible identificar criterios clave que orientan la selección de los controles más adecuados para cada contexto organizacional.
 
