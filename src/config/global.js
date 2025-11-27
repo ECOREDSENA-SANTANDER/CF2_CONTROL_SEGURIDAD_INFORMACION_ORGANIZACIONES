@@ -395,8 +395,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
