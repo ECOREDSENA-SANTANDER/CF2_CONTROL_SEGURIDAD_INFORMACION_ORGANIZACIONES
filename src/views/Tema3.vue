@@ -90,7 +90,7 @@
                     span.mb-0 Un sistema de videovigilancia se evalúa según la cantidad de incidentes resueltos gracias a las grabaciones. 
                   li.mb-0
                     span.text-bold b. 
-                    span.mb-0 El antivirus se mide por la detección y bloqueo de intentos de malware en un mes.
+                    span.mb-0 El antivirus se mide por la detección y bloqueo de intentos de #[em malware] en un mes.
             tr
               td.fw-bold Periodicidad de revisión
               td Establece la frecuencia con que se revisan los controles, priorizando aquellos más críticos o expuestos. La periodicidad depende del nivel de riesgo y del impacto esperado.
