@@ -71,7 +71,7 @@
         ul.lista-ul.lista-ul--color.fa-lista
           li.mb-lg-4
             i.fas.fa-shield
-            span.mb-0 Las medidas técnicas se relacionan con el uso de #[em software] , #[em hardware] y configuraciones seguras.
+            span.mb-0 Las medidas técnicas se relacionan con el uso de #[em software], #[em hardware] y configuraciones seguras.
           li.mb-lg-4
             i.fas.fa-shield
             span.mb-0 Las medidas físicas incluyen la protección de equipos, instalaciones y accesos.
@@ -621,7 +621,7 @@
               td Los controles deben responder directamente a los riesgos identificados en el análisis, priorizando los activos críticos (información de clientes, sistemas financieros, etc.). La finalidad es garantizar la protección de la confidencialidad, integridad y disponibilidad.
               td Una empresa de comercio electrónico prioriza implementar autenticación multifactorial (MFA) en su sistema de pagos porque el análisis de riesgos mostró alta probabilidad de fraude.
             tr
-              td.fw-bold Alfinanción con objetivos y normativas
+              td.fw-bold Alineación con objetivos y normativas
               td Los controles deben ser seleccionados considerando tanto los objetivos de seguridad de la empresa como los requisitos regulatorios o legales que le aplicuen.
               td Una entidad financiera adopta cifrado de datos sensibles para cumplir con la Circular Externa 007 de 2018 de la Superfinanciera y a la vez garantizar confianza en sus clientes.
             tr
@@ -629,7 +629,7 @@
               td La implementación de controles debe ser proporcional al nivel de riesgo y a la capacidad financiera y técnica de la organización. No siempre es viable aplicar la solución más costosa, sino la más adecuada.
               td Una empresa de diseño gráfico decide usar un servicio en la nube con copias de seguridad automáticas en lugar de montar un costoso centro de datos propio.
             tr
-              td.fw-bold.fw-bold Documentación Jurídica
+              td.fw-bold.fw-bold Documentación justificativa
               td La selección (o exclusión) de cada control debe estar documentada en la Declaración de Aplicabilidad, donde se justifica con base en riesgos, normativas y recursos disponibles.
               td Una empresa de alimentos documenta por qué implementó control de accesos físicos a su bodega (por riesgo alto de robo) pero descartó la instalación de biometría (por costo elevado).
             tr

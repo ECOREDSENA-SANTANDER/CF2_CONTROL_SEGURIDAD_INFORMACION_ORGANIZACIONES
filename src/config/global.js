@@ -336,7 +336,7 @@ export default {
     },
     {
       referencia:
-        'Equipo Auditogl. (2024, noviembre 21). Control interno. Auditogl.',
+        'Equipo Auditool. (2024, noviembre 21). Control interno. Auditool.',
       link:
         'https://www.auditool.org/blog/control-interno/cual-es-la-diferencia-entre-controles-preventivos-detectivos-y-correctivos',
     },
@@ -410,7 +410,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

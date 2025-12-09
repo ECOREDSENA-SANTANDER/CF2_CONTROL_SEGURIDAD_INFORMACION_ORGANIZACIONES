@@ -250,7 +250,7 @@
               td.fw-bold CISO (#[em Chief Information Security Officer])
               td Responsable máximo de la estrategia de ciberseguridad, desde la planificación hasta la supervisión, reportando a la dirección.
             tr
-              td.fw-bold.fw-bold CISO (#[em Chief Security Officer])
+              td.fw-bold.fw-bold CSO (#[em Chief Security Officer])
               td Encargado de la seguridad integral, incluyendo continuidad del negocio y recuperación ante desastres.
             tr
               td.fw-bold.fw-bold CTO (#[em Chief Technology Officer])
@@ -268,7 +268,7 @@
               td.fw-bold.fw-bold Analista de seguridad
               td Supervisa la implementación y eficacia de controles de seguridad en sistemas y servicios nuevos.
             tr
-              td.fw-bold.fw-bold Informáticos forense
+              td.fw-bold.fw-bold Informático forense
               td Inventiga incidentes, identifica causas y preserva evidencia digital para análisis y procesos legales.
             tr
               td.fw-bold #[em Hacker] ético

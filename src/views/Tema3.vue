@@ -225,7 +225,7 @@
               th Ejemplo
           tbody.text-start
             tr
-              td.fw-bold Bidioque de eventos (#[em logs])
+              td.fw-bold Bitácoras de eventos (#[em logs])
               td Archivos generados por sistemas y aplicaciones que registran actividades como accesos, cambios o intentos de inmueble.
               td #[em Log] del #[em firewall] mostrando intentos de correción bloqueados en la última semana.
             tr
@@ -238,7 +238,7 @@
               td Acta de revisión trimestral de respaldos de información firmada por el responsable de TI.
             tr
               td.fw-bold Registros de incidentes
-              td Documentación de eventos de seguridad, análisis de causa raíz y medidas correctivas implementadas
+              td Documentación de eventos de seguridad, análisis de causa raíz y medidas correctivas implementadas.
               td Registro de un ataque de #[em phishing] detectado, con acciones de bloqueo y capacitación posterior.
             tr
               td.fw-bold Evidencias gráficas o capturas
@@ -293,9 +293,9 @@
               td Indicar si el control queda en estado conforme o requiere seguimiento adicional.
               td Conforme - se programó revisión adicional en 7 días.
             tr
-              td.fw-bold Entienda cámara
-              td Indicar si es adjunta soporte (capcura de parcialis, informe, #[em log]).
-              td Capcura de parcialis del #[em log] adjunto al reporte digital.
+              td.fw-bold Evidencia adjunta
+              td Indicar si se adjunta soporte (captura de pantalla, informe, #[em log]).
+              td Captura de pantalla del #[em log] adjunto al reporte digital.
             tr
               td.fw-bold Firma o validación
               td Firma digital o física del responsable o del auditor.
