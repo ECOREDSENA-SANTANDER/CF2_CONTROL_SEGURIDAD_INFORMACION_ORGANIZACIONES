@@ -269,7 +269,7 @@
               td Supervisa la implementación y eficacia de controles de seguridad en sistemas y servicios nuevos.
             tr
               td.fw-bold.fw-bold Informático forense
-              td Inventiga incidentes, identifica causas y preserva evidencia digital para análisis y procesos legales.
+              td Investiga incidentes, identifica causas y preserva evidencia digital para análisis y procesos legales.
             tr
               td.fw-bold #[em Hacker] ético
               td Localiza fallos de seguridad mediante pruebas controladas y propone soluciones para fortalecer la infraestructura.
