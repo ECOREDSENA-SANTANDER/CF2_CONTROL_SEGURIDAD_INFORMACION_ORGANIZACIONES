@@ -156,7 +156,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF2_21720211_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -189,7 +189,7 @@ export default {
     {
       tema: 'Implementación de controles',
       referencia:
-        'Soy Ingenio. (2021). ¿Qué es el CICLO PHVA o PDCA? Ejemplo personal. Deming.',
+        'Soy Ingenio. (2021). ¿Qué es el CICLO PHVA o PDCA? Ejemplo personal. Deming.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kWp-WGSmV3U',
     },
