@@ -560,7 +560,7 @@
               td.fw-bold Circular Externa 007 de 2018 (Superfinanciera) 
               td Lineamientos de ciberseguridad para el sector financiero. 
               td Obliga a entidades financieras a contar con planes de gestión de riesgos, monitoreo y respuesta ante incidentes. 
-              td La empresa designa a un responsable de ciberseguridad habilita autenticación multifactorial en accesos críticos, realiza copias de seguridad y pruebas de recuperación trimestrales; además documenta procedimientos de notificación a clientes y mantiene evidencia para auditoría. 
+              td La empresa designa a un responsable de ciberseguridad habilita autenticación multifactorial en accesos críticos, realiza copias de seguridad y pruebas de recuperación trimestrales; además, documenta procedimientos de notificación a clientes y mantiene evidencia para auditoría. 
 
 
     Separador

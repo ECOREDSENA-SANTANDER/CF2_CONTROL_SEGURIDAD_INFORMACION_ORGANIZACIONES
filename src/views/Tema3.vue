@@ -226,7 +226,7 @@
           tbody.text-start
             tr
               td.fw-bold Bitácoras de eventos (#[em logs])
-              td Archivos generados por sistemas y aplicaciones que registran actividades como accesos, cambios o intentos de inmueble.
+              td Archivos generados por sistemas y aplicaciones que registran actividades como accesos, cambios o intentos de intrusión.
               td #[em Log] del #[em firewall] mostrando intentos de correción bloqueados en la última semana.
             tr
               td.fw-bold Informes de monitoreo
@@ -242,7 +242,7 @@
               td Registro de un ataque de #[em phishing] detectado, con acciones de bloqueo y capacitación posterior.
             tr
               td.fw-bold Evidencias gráficas o capturas
-              td Pruebas visuales (#[em screenshots], fotos) que derruceñan la existencia y correcto funcionamiento de controles.
+              td Pruebas visuales (#[em screenshots], fotos) que demuestran la existencia y correcto funcionamiento de controles.
               td Captura de pantalla del antivirus mostrando la última actualización aplicada.
             tr
               td.fw-bold Listas de chequeo de auditoría
@@ -287,7 +287,7 @@
             tr
               td.fw-bold Acciones tomadas
               td Describir las medidas correctivas o preventivas aplicadas.
-              td Biloqueo de usuarios sospechosos y notificación a dirección.
+              td Bloqueo de usuarios sospechosos y notificación a dirección.
             tr
               td.fw-bold Resultado final
               td Indicar si el control queda en estado conforme o requiere seguimiento adicional.
